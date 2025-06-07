@@ -4,19 +4,19 @@
 
 ## Features
 
-## User Features
+    ### User Features
+    
+        * Browse news by categories: Sport, Business, Earth, and Technology.
+        * Register and log in to comment on news articles.
+        * View other users' comments on news articles.
+        * Contact administrators via a contact form.
 
-* Browse news by categories: Sport, Business, Earth, and Technology.
-* Register and log in to comment on news articles.
-* View other users' comments on news articles.
-* Contact administrators via a contact form.
-
-## Admin Features
-
-* Dashboard: View key site metrics and manage content.
-* News Management: Add, edit, and delete news articles.
-* User Management: View, manage, and promote users to admins.
-* Message Management: Receive and respond to user messages.
+    ### Admin Features
+    
+        * Dashboard: View key site metrics and manage content.
+        * News Management: Add, edit, and delete news articles.
+        * User Management: View, manage, and promote users to admins.
+        * Message Management: Receive and respond to user messages.
 
 ## Installation
 
