@@ -1,9 +1,9 @@
 # News Website
----
+
 ### A dynamic news website built with native PHP, featuring multiple news categories, user interactions, and an admin dashboard for content management.
 
 ## Features
-***
+
 ## User Features
 
 * Browse news by categories: Sport, Business, Earth, and Technology.
@@ -19,7 +19,7 @@
 * Message Management: Receive and respond to user messages.
 
 ## Installation
----
+
 1. Clone the repository:
 
     `git clone https://github.com/Fathy-Ahmed/NewNews.git`
