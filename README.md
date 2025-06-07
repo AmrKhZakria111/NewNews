@@ -2,14 +2,12 @@
 
 ### A dynamic news website built with native PHP, featuring multiple news categories, user interactions, and an admin dashboard for content management.
 
-## Features
-
-    ### User Features
+### User Features
     
-        * Browse news by categories: Sport, Business, Earth, and Technology.
-        * Register and log in to comment on news articles.
-        * View other users' comments on news articles.
-        * Contact administrators via a contact form.
+* Browse news by categories: Sport, Business, Earth, and Technology.
+* Register and log in to comment on news articles.
+* View other users' comments on news articles.
+* Contact administrators via a contact form.
 
     ### Admin Features
     
