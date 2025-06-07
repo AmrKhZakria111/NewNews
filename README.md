@@ -1,23 +1,44 @@
-Daily To-Do List
-A simple and interactive Python-based application to help you manage your daily tasks and journal entries. 
+News Website
 
-This project allows users to:
+A dynamic news website built with native PHP, featuring multiple news categories, user interactions, and an admin dashboard for content management.
+Features
+User Features
 
-Add, view, and delete daily tasks.
+    Browse news by categories: Sport, Business, Earth, and Technology.
+    Register and log in to comment on news articles.
+    View other users' comments on news articles.
+    Contact administrators via a contact form.
 
-Maintain a personal journal for daily reflections.
+Admin Features
 
-Easily track progress and prioritize tasks.
+    Dashboard: View key site metrics and manage content.
+    News Management: Add, edit, and delete news articles.
+    User Management: View, manage, and promote users to admins.
+    Message Management: Receive and respond to user messages.
 
-Key Features:
+Installation
 
-User-friendly CLI interface for seamless interaction.
+Clone the repository:
 
-Lightweight and easy to run on any system with Python installed.
+git clone https://github.com/Fathy-Ahmed/NewNews.git
 
-Modular design, making it easy to enhance or expand functionality.
+Import the database:
 
-This project is ideal for anyone starting with Python or looking for a practical and straightforward tool for daily productivity.
+    Create a database in MySQL.
+    Import the newsdb.sql file.
 
-Feel free to explore, contribute, or suggest improvements! 😊
+Start a local PHP server:
 
+php -S localhost:8000
+
+    Open your browser and go to http://localhost:8000.
+
+Technologies Used
+
+    PHP (Native, no framework)
+    MySQL (Database management)
+    HTML, CSS, JavaScript (Frontend)
+
+Contributing
+
+Feel free to fork this repository and submit pull requests to improve the project.
