@@ -20,7 +20,7 @@
 
 1. Clone the repository:
 
-    `git clone https://github.com/Fathy-Ahmed/NewNews.git`
+    `https://github.com/AmrKhZakria111/NewNews,git`
 
 2. Import the database:
 
